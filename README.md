@@ -4,18 +4,18 @@
 **Tired of email overload?** Our AI-powered assistant helps you stay on top of your email inbox by summarizing, organizing, and automating responses, so you can focus on what matters most.
 
 ## ✨ Key Features
-- **📨 Smart Summaries** – Get a quick digest of important emails without reading everything.
-- **📅 AI-Powered Inbox Management** – Prioritize messages, filter distractions, and surface key action items.
-- **🤖 Auto-Reply Suggestions** – Respond in one click with AI-generated smart replies.
-- **📌 Follow-Up Reminders** – Never miss important emails that need a response later.
-- **🔗 Seamless Integration** – Works with Gmail, Outlook, and other major email providers.
+- ** Smart Summaries** – Get a quick digest of important emails without reading everything.
+- ** AI-Powered Inbox Management** – Prioritize messages, filter distractions, and surface key action items.
+- ** Auto-Reply Suggestions** – Respond in one click with AI-generated smart replies.
+- ** Follow-Up Reminders** – Never miss important emails that need a response later.
+- ** Seamless Integration** – Works with Gmail, Outlook, and other major email providers.
 
-## 🚀 How It Works
+## How It Works
 1. **Connect your email** – Securely integrate with your inbox.
 2. **Let AI do the work** – It categorizes, summarizes, and suggests actions.
 3. **Stay in control** – Review, modify, or send AI-generated responses in seconds.
 
-## 🎯 Who Is It For?
+## Who Is It For?
 - **Busy professionals** who receive too many emails.
 - **Entrepreneurs & freelancers** managing multiple conversations.
 - **Executives & teams** needing quick insights from their inbox.
