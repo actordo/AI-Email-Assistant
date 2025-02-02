@@ -10,6 +10,8 @@
 3. **Start using AI insights** – Receive summaries, suggestions, and reminders.
 
 🔒 Your data remains private and secure at all times.
+Actor never stores your email data on our servers.
+No human ever reads your email content.
 
 ---
 ⚡ *Stay tuned for Outlook support!*
